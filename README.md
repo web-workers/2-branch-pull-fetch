@@ -25,7 +25,7 @@ git branch -D [branch-to-delete]
 git checkout [-q] [-f] [-m] [<branch>]
 ```
 
-Like Git Branch checkout has lots of powerful switches and arguments but below are the ones I use the most:
+Like Git Branch, Checkout has lots of powerful switches and arguments but below are the ones I use the most:
 
 ```
 git checkout [existing-branch-name]
