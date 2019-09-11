@@ -7,3 +7,31 @@ This is super powerful because it gives us as a team of developers the ability t
 ### Web Workers
 
 The Web Workers website is [https://memphiswebworkers.com](https://memphiswebworkers.com`)
+
+### The Commands
+#### Git Branch
+[Git - git-branch Documentation](https://git-scm.com/docs/git-branch)
+
+```
+git branch ...[all the things]
+```
+
+Git Branch has LOTS of arguments that can be applied but the ones I use the most are:
+```
+git branch -l or —list
+git branch -D [branch-to-delete]
+```
+
+#### Git Checkout
+[Git - git-checkout Documentation](https://git-scm.com/docs/git-checkout)
+
+```
+git checkout [-q] [-f] [-m] [<branch>]
+```
+
+Like Git Branch, Checkout has lots of powerful switches and arguments but below are the ones I use the most:
+
+```
+git checkout [existing-branch-name]
+git checkout -b [new-branch-name]
+```
